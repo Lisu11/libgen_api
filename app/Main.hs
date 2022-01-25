@@ -1,4 +1,6 @@
 module Main where
 
+import qualified Libgen
+
 main :: IO ()
-main = putStrLn "Hello, Haskell!"
+main = Libgen.hi
