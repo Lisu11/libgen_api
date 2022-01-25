@@ -10,9 +10,8 @@ version:            0.1.0.0
 
 -- A URL where users can report bugs.
 -- bug-reports:
-
--- The license under which the package is released.
--- license:
+license:            MIT
+license-file:       LICENSE
 
 -- The package author(s).
 -- author:
